@@ -1,16 +1,47 @@
-# hello_world
+# Ridho Fauzian Pratama
+# 2241720142
+# TI - 3H / 21
 
-A new Flutter project.
+## Praktikum : 1 Membuat Project Flutter Baru
+![Alt Text](./images/img1.png)
 
-## Getting Started
+## Praktikum : 2 Menghubungkan Perangkat Android atau Emulator
+![Alt Text](./images/img2.png)
 
-This project is a starting point for a Flutter application.
+## Praktikum : 3 Membuat Repository GitHub dan Laporan Praktikum 
+### Langkah 10
+![Alt Text](./images/img3.png) 
+### Langkah 11
+![Alt Text](./images/img4.png) 
+### Langkah 12
+![Alt Text](./images/img5.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Praktikum : 4 Menerapkan Widget Dasar
+### Langkah 1
+![Alt Text](./images/img6.png)
+### Langkah 2
+![Alt Text](./images/img7.png) 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Praktikum : 5
+### Langkah 3 : Scaffold Widget
+![Alt Text](./images/img8.png)
+### Langkah 4 : Dialog Widget
+Tampilan Awal :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt Text](./images/img9.png)
+
+Tampilan Awal :
+
+![Alt Text](./images/img10.png) 
+
+Jika diklik ok maka alertnya akan hilang
+### Langkah 5 : Input dan Selection Widget
+![Alt Text](./images/img11.png)
+### Langkah 6 : Date and Time Pickers 
+Tampilan Awal :
+
+![Alt Text](./images/img12.png)
+
+Jika diklik pilih Tanggal :
+
+![Alt Text](./images/img13.png) 
